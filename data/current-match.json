@@ -1,0 +1,75 @@
+{
+  "match_name": "partida 12",
+  "teams": [
+    {
+      "team": "Bayern Munich",
+      "players": [
+        {
+          "name": "Robert Lewandowski",
+          "goals": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "name": "Thomas Müller",
+          "goals": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "name": "Manuel Neuer",
+          "goals": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "name": "Joshua Kimmich",
+          "goals": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "name": "Jerome Boateng",
+          "goals": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "FC Barcelona",
+      "players": [
+        {
+          "name": "Lionel Messi",
+          "goals": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "name": "Xavi Hernández",
+          "goals": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "name": "Andrés Iniesta",
+          "goals": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "name": "Sergio Busquets",
+          "goals": 0,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "name": "Gerard Piqué",
+          "goals": 0,
+          "yellow": 0,
+          "red": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Real Madrid",
+        "players": [
+            {
+                "name": "Karim Benzema",
+                "nota": 4.85
+            },
+            {
+                "name": "Luka Modrić",
+                "nota": 4.72
+            },
+            {
+                "name": "Toni Kroos",
+                "nota": 4.65
+            },
+            {
+                "name": "Casemiro",
+                "nota": 4.58
+            },
+            {
+                "name": "Sergio Ramos",
+                "nota": 4.91
+            }
+        ]
+    },
+    {
+        "name": "FC Barcelona",
+        "players": [
+            {
+                "name": "Lionel Messi",
+                "nota": 4.97
+            },
+            {
+                "name": "Xavi Hernández",
+                "nota": 4.88
+            },
+            {
+                "name": "Andrés Iniesta",
+                "nota": 4.93
+            },
+            {
+                "name": "Sergio Busquets",
+                "nota": 4.70
+            },
+            {
+                "name": "Gerard Piqué",
+                "nota": 4.62
+            }
+        ]
+    },
+    {
+        "name": "Manchester United",
+        "players": [
+            {
+                "name": "Cristiano Ronaldo",
+                "nota": 4.96
+            },
+            {
+                "name": "Wayne Rooney",
+                "nota": 4.80
+            },
+            {
+                "name": "Paul Scholes",
+                "nota": 4.75
+            },
+            {
+                "name": "Ryan Giggs",
+                "nota": 4.83
+            },
+            {
+                "name": "Eric Cantona",
+                "nota": 4.90
+            }
+        ]
+    },
+    {
+        "name": "Bayern Munich",
+        "players": [
+            {
+                "name": "Robert Lewandowski",
+                "nota": 4.94
+            },
+            {
+                "name": "Thomas Müller",
+                "nota": 4.61
+            },
+            {
+                "name": "Manuel Neuer",
+                "nota": 4.88
+            },
+            {
+                "name": "Joshua Kimmich",
+                "nota": 4.66
+            },
+            {
+                "name": "Jerome Boateng",
+                "nota": 4.50
+            }
+        ]
+    },
+    {
+        "name": "Juventus",
+        "players": [
+            {
+                "name": "Gianluigi Buffon",
+                "nota": 4.89
+            },
+            {
+                "name": "Alessandro Del Piero",
+                "nota": 4.92
+            },
+            {
+                "name": "Andrea Pirlo",
+                "nota": 4.85
+            },
+            {
+                "name": "Giorgio Chiellini",
+                "nota": 4.70
+            },
+            {
+                "name": "Paulo Dybala",
+                "nota": 4.59
+            }
+        ]
+    },
+    {
+        "name": "Paris Saint-Germain",
+        "players": [
+            {
+                "name": "Kylian Mbappé",
+                "nota": 4.98
+            },
+            {
+                "name": "Neymar Jr.",
+                "nota": 4.95
+            },
+            {
+                "name": "Ángel Di María",
+                "nota": 4.68
+            },
+            {
+                "name": "Marco Verratti",
+                "nota": 4.60
+            },
+            {
+                "name": "Gianluigi Donnarumma",
+                "nota": 4.55
+            }
+        ]
+    },
+    {
+        "name": "Liverpool",
+        "players": [
+            {
+                "name": "Mohamed Salah",
+                "nota": 4.90
+            },
+            {
+                "name": "Sadio Mané",
+                "nota": 4.85
+            },
+            {
+                "name": "Roberto Firmino",
+                "nota": 4.73
+            },
+            {
+                "name": "Jordan Henderson",
+                "nota": 4.55
+            },
+            {
+                "name": "Virgil van Dijk",
+                "nota": 4.88
+            }
+        ]
+    },
+    {
+        "name": "Manchester City",
+        "players": [
+            {
+                "name": "Kevin De Bruyne",
+                "nota": 4.96
+            },
+            {
+                "name": "Sergio Agüero",
+                "nota": 4.89
+            },
+            {
+                "name": "David Silva",
+                "nota": 4.87
+            },
+            {
+                "name": "Raheem Sterling",
+                "nota": 4.62
+            },
+            {
+                "name": "Vincent Kompany",
+                "nota": 4.75
+            }
+        ]
+    }
+]
